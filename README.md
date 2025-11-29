@@ -1,6 +1,6 @@
 # Macro Signal Validation System
 
-## Professional Quantitative Research Framework for Testing Macro Indicator Predictive Power
+## Framework for Testing Macro Indicator Predictive Power
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
